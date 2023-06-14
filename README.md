@@ -1,6 +1,6 @@
 # app_quitanda
 
-A new Flutter project.
+Flutter Version 3.10.2
 
 ## Getting Started
 
