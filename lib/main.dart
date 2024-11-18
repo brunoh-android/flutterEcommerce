@@ -1,7 +1,7 @@
 import 'package:app_quitanda/src/pages/auth/controller/auth_controller.dart';
 import 'package:app_quitanda/src/pages_route/app_pages.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
+import 'package:get/get.dart';;
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
